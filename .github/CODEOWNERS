@@ -4,16 +4,19 @@
 
 # FILES
 
-# Dnaiel's files:
+# CSS files including subfulders stored
 
+# in the /style folder belong to Hossein
+
+/style/ @Coder-9574
+
+# The index.html and README.md files belong to Daniel
+
+index.html @kovad003
 README.md @kovad003
-sunnywinter.html @kovad003
 
-# Hossein's files:
+# All files in the html directory belongs to Ashley
 
-seacoast.html @Coder-9574
+# including subfolders
 
-# Ashley's files:
-
-lakebled.html @Coder-AD-3000
-index.html @Coder-AD-3000
+/html/
