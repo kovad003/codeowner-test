@@ -1,0 +1,19 @@
+# Default owner for everything in the rep:
+
+-       @kovad003
+
+# FILES
+
+# Dnaiel's files:
+
+\*README.md @kovad003
+\*sunnywinter.html @kovad003
+
+# Hossein's files:
+
+\*seacoast.html @Coder-9574
+
+# Ashley's files:
+
+\*lakebled.html @Coder-AD-3000
+\*index.html @Coder-AD-3000
