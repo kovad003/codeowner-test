@@ -2,7 +2,9 @@
 
 -       @kovad003
 
-# FILES
+# The CODEOWNER file belongs to Daniel
+
+/.github/CODEOWNERS @kovad003
 
 # CSS files including subfulders stored
 
