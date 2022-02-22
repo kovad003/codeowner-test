@@ -1,4 +1,5 @@
-<!-- # Default owner for everything in the rep:
+<!--
+# Default owner for everything in the rep:
 
 -       @kovad003
 
@@ -21,4 +22,5 @@ README.md @kovad003
 
 # including subfolders
 
-/html/ @Coder-AD-3000 -->
+/html/ @Coder-AD-3000
+-->
